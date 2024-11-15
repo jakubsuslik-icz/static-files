@@ -2,8 +2,6 @@
     "kind": "fontconfiguration",
     "server": "Test config server",
     "fonts": [
-        {
-            "uri": "https://jakubsuslik-icz.github.io/static-files/old_london/OldLondon.ttf"
-        }
+        
     ]
 }
