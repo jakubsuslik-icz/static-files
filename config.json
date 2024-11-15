@@ -3,7 +3,7 @@
     "server": "Test config server",
     "fonts": [
         {
-            "uri": "http://0.0.0.0:8080/old_london"
+            "uri": "https://jakubsuslik-icz.github.io/static-files/old_london/OldLondon.ttf"
         }
     ]
 }
