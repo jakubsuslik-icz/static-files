@@ -1,0 +1,9 @@
+{
+    "kind": "fontconfiguration",
+    "server": "Test config server",
+    "fonts": [
+        {
+            "uri": "http://0.0.0.0:8080/old_london"
+        }
+    ]
+}
